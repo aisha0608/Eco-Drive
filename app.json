@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "EcoDrive",
+    "slug": "EcoDrive",
+    "android": {
+      "package": "com.aravind.s.EcoDrive"
+    },
+    "ios": {
+      "bundleIdentifier": "com.aravind.s.EcoDrive"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow EcoDrive to use your location."
+        }
+      ]
+    ]
+
+  }
+}
